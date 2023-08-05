@@ -5,10 +5,14 @@
 [Production website](https://home-reader.com/)
 
 [GitHub Repository Documentation](https://github.com/HomeReaderApp/HomeReaderDocs)
+
 [GitHub Repository Front-End](https://github.com/HomeReaderApp/HomeReaderDocs)
+
 [GitHub Repository Back-End](https://github.com/HomeReaderApp/HomeReaderDocs)
 
 [Deployed Back-End](https://homereader-backend-dad51d74393a.herokuapp.com/)
+
+[Deployed Front-End - Netlify](https://scintillating-eclair-9aa967.netlify.app/)
 
 
 [Video presentation of Part A Application](https://vimeo.com/843611257/a16c99ae75)
@@ -145,6 +149,11 @@ After discussion with parents and students at my current school, the following u
 -	As a parent/student I want the application to be easily accessible and viewable on a mobile or tablet device as well as a computer screen. 
 
 # Wireframes
+
+The final project does not exactly match the wireframes due to time constraints at the end of the project. The main logo is not centered on page, but to the left side. Their was difficulty on getting it to sit half on/half off the header bar and dynamically moving on different screen sizes. 
+The final project is just styled in 'desktop mode', so there may be glitches in usage on a mobile device. However, these have been limited where possible. 
+The copyright footer was also not implemented, but will be in the near future. It was not essential for the functionality of the application. 
+The colour scheme is brown and greens to indicate nature. In the future, a photo header will be implemented to create a more sophisticated feel for the site. 
 
 ## Landing Page
 ![HomeReader landing page](docs/wireframes/landing.png)
