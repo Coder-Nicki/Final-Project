@@ -2,7 +2,9 @@
 
 ## Nicole Hulett T3A1-Part A
 
-## [Production website](https://home-reader.com/)
+### [Production website](https://home-reader.com/)
+
+#### Repositories
 
 [GitHub Repository Documentation](https://github.com/HomeReaderApp/HomeReaderDocs)
 
@@ -10,10 +12,13 @@
 
 [GitHub Repository Back-End](https://github.com/HomeReaderApp/HomeReaderDocs)
 
+#### Deployment links
+
 [Deployed Back-End](https://homereader-backend-dad51d74393a.herokuapp.com/)
 
 [Deployed Front-End - Netlify](https://scintillating-eclair-9aa967.netlify.app/)
 
+#### Presentations
 
 [Video presentation of Part A Application](https://vimeo.com/843611257/a16c99ae75)
 
@@ -21,31 +26,19 @@
 
 ## Contents
 
-[Purpose](#purpose)
-
-[Functionality/Features](#functionality-features)
-
-[Target Audience](#target-audience)
-
-[Purpose](#purpose)
-
-[Tech Stack](#tech-stack)
-
-[Libraries and Packages](#libraries-and-packages-used)
-
-[Application Architecture Diagram](#application-architecture-diagram)
-
-[Dataflow Diagram](#dataflow-diagram)
-
-[User Stories](#user-stories)
-
-[Wireframes](#wireframes)
-
-[Project Management](#project-management-web-build)
-
-[Trello Board](#trello-board)
-
-[Testing](#testing)
+- [Purpose](#purpose)
+- [Functionality/Features](#functionality-features)
+- [Target Audience](#target-audience)
+- [Purpose](#purpose)
+- [Tech Stack](#tech-stack)
+- [Libraries and Packages](#libraries-and-packages-used)
+- [Application Architecture Diagram](#application-architecture-diagram)
+- [Dataflow Diagram](#dataflow-diagram)
+- [User Stories](#user-stories)
+- [Wireframes](#wireframes)
+- [Project Management](#project-management-web-build)
+- [Trello Board](#trello-board)
+- [Testing](#testing)
 
 # Description 
 
