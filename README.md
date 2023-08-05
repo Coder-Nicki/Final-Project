@@ -190,6 +190,8 @@ This project management technique also incorperated the use of Kanban in the for
 
 - [Trello board screenshots folder](./docs/trello/Trello-project-build )
 
+Git commits were used regularly throughout the lifecyle of this project. The project also utilised many branches, to ensure all the features could be worked on independent of the main branch and not cause issues. The branches are based on the different sprints and tasks implemented. All branches were pushed to Github and then a pull request created with a comment. This would have allowed for communication had their been more than one developer working on this project. 
+
 User stories were used for the project before it got underway to ensure the application was meeting the needs of the client. This is another tool of agile methodology. 
 
 This project was completed solo, so therefore other important aspects of agile methodology weren't implemented correctly. These are things like daily standups with team members and sprint retrospectives. These are both in regards to communication with other team memebers and ensuring that the build process is a cycle with everything getting constantly reviewed and modified if needed. 
@@ -202,7 +204,7 @@ My Trello board can be viewed [here](https://trello.com/b/vsvw5sQt/home-reader-a
 
 ![Trello initial board](docs/trello/1Initial.png)
 
-After further research on Trello. I updated how I was using labels and custom fields. My labels indicate the amount of work required for each card in regards to how small or big it is. The custom fields tag state what part of the application that card is related to.
+After further research on Trello. I updated how I was using labels and custom fields. My labels indicate the amount of work required for each card in regards to how small or big it is. The custom fields tag state what part of the application that card is related to. **Most task cards also indicate who was to work on them, had I been working with a partner, these would have been shared accoring to abilities and dependent on task and size**
 
 ![Trello before coding board](docs/trello/Trello1.png)
 ![user stories task card](docs/trello/TrelloCard1.png)
