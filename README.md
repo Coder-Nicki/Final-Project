@@ -19,6 +19,22 @@
 
 [Video presentation of Part B Application]()
 
+## Contents
+
+[Purpose](#purpose)
+[Functionality/Features](#functionality-features)
+[Target Audience](#target-audience)
+[Purpose](#purpose)
+[Tech Stack](#tech-stack)
+[Libraries and Packages](#libraries-and-packages-used)
+[Application Architecture Diagram](#application-architecture-diagram)
+[Dataflow Diagram](#dataflow-diagram)
+[User Stories](#user-stories)
+[Wireframes](#wireframes)
+[Project Management](#project-management-web-build)
+[Trello Board](#trello-board)
+[Testing](#testing)
+
 # Description 
 
 # Purpose
@@ -182,7 +198,7 @@ The colour scheme is brown and greens to indicate nature. In the future, a photo
 ## Comments
 ![Comments page](docs/wireframes/Comments.png)
 
-## Project Management Web Build:
+# Project Management
 
 The HomeReader application utilised Agile Methodology in managing the build. The project was broken up into parts and each part was later turned into a Sprint. The four main parts were; front-end, back-end, documentation and testing. The back-end was the first sprint after original documentation and preparations had been completed. The back-end was further broken down into small chunks for all the different tasks that needed to be done to get a functioning and deployed web API server. This sprint was given 10 days for completion. The next sprint was the front-end. Again this part was broken down into smaller tasks to get the job. The time-frame again for this sprint was 10 days. The third big sprint was the testing for both front-end and back-end. This was further broken down according to unit or manual tests and for production and deployment. This sprint only allowed 7 days. The final sprint was to get all the documentation in order for the functioning application and was a much shorter sprint cycle. 
 
