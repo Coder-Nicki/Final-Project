@@ -178,7 +178,8 @@ After discussion with parents and students at my current school, the following u
 The HomeReader application utilised Agile Methodology in managing the build. The project was broken up into parts and each part was later turned into a Sprint. The four main parts were; front-end, back-end, documentation and testing. The back-end was the first sprint after original documentation and preparations had been completed. The back-end was further broken down into small chunks for all the different tasks that needed to be done to get a functioning and deployed web API server. This sprint was given 10 days for completion. The next sprint was the front-end. Again this part was broken down into smaller tasks to get the job. The time-frame again for this sprint was 10 days. The third big sprint was the testing for both front-end and back-end. This was further broken down according to unit or manual tests and for production and deployment. This sprint only allowed 7 days. The final sprint was to get all the documentation in order for the functioning application and was a much shorter sprint cycle. 
 
 This project management technique also incorperated the use of Kanban in the form of Trello Boards as a visualisation technique for tasks. Trello boards allow the project to be broken down into small tasks with due dates, responsible team members and task size stated. See the Trello board screenshots to see how each of the sprints was organised with the backend tasks all being prioritised first. 
-Trello board screenshots..
+
+- [Trello board screenshots folder](./docs/trello/Trello-project-build )
 
 User stories were used for the project before it got underway to ensure the application was meeting the needs of the client. This is another tool of agile methodology. 
 
@@ -198,3 +199,10 @@ After further research on Trello. I updated how I was using labels and custom fi
 ![user stories task card](docs/trello/TrelloCard1.png)
 ![wireframes task card](docs/trello/trelloCard3.png)
 ![app architecture task card](docs/trello/trelloCard4.png)
+
+# Testing
+
+Here is a the link to the manual testing completed.
+[Manual testing](docs/testing/Testing.xlsx)
+
+Unit tests can be accessed via the src code. 
