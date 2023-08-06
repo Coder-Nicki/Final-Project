@@ -4,6 +4,8 @@
 
 ### [Production website](https://home-reader.com/)
 
+![Homereader homepage](docs/homereader.png)
+
 #### Repositories
 
 [GitHub Repository Documentation](https://github.com/HomeReaderApp/HomeReaderDocs)
@@ -22,7 +24,9 @@
 
 [Video presentation of Part A Application](https://vimeo.com/843611257/a16c99ae75)
 
-[Video presentation of Part B Application]()
+[Slide deck for Part B and full app](./ppt/homereader-slidedeck.pptx)
+
+[GitHub repo for full documentation for Coder Academy final assessment](https://github.com/Coder-Nicki/Final-Project)
 
 ## Contents
 
@@ -159,6 +163,8 @@ After discussion with a variety of teachers, young and old, the following user s
 -	As a teacher, I want the page to be easy to navigate.
 -	As a teacher, I want to be able to reset my password if I forget it.
 -	As a teacher, I want to be able to edit/update my students details or login codes.
+
+**Did not get round to developing code to reset a password**
 
 #### Parent/Student
 
